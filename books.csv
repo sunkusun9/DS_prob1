@@ -1,0 +1,688 @@
+book_id,authors,original_title,pub_year,genre,children
+1,Suzanne Collins,The Hunger Games,2008.0,Adventure,no
+2,J.K. Rowling,Harry Potter and the Philosopher's Stone,1997.0,Fantasy,Yes
+3,Stephenie Meyer,Twilight,2005.0,Romance,no
+4,Harper Lee,To Kill a Mockingbird,1960.0,Mystery,no
+5,F. Scott Fitzgerald,The Great Gatsby,1925.0,Romance,no
+6,John Green,The Fault in Our Stars,2012.0,Romance,no
+7,J.R.R. Tolkien,The Hobbit or There and Back Again,1937.0,Fantasy,Yes
+8,J.D. Salinger,The Catcher in the Rye,1951.0,Mystery,no
+9,Dan Brown,Angels & Demons ,2000.0,Thriller,no
+10,Jane Austen,Pride and Prejudice,1813.0,Romance,no
+11,Khaled Hosseini,The Kite Runner ,2003.0,Adventure,no
+12,Veronica Roth,Divergent,2011.0,Sci-Fi,no
+13,George Orwell,Nineteen Eighty-Four,1949.0,Sci-Fi,no
+14,George Orwell,Animal Farm: A Fairy Story,1945.0,Satire,No
+15,Anne Frank,Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,1947.0,Biography,No
+16,Stieg Larsson,Män som hatar kvinnor,2005.0,Mystery,no
+17,Suzanne Collins,Catching Fire,2009.0,Sci-Fi,no
+18,J.K. Rowling,Harry Potter and the Prisoner of Azkaban,1999.0,Fantasy,Yes
+19,J.R.R. Tolkien, The Fellowship of the Ring,1954.0,Fantasy,no
+20,Suzanne Collins,Mockingjay,2010.0,Adventure,no
+21,J.K. Rowling,Harry Potter and the Order of the Phoenix,2003.0,Fantasy,Yes
+22,Alice Sebold,The Lovely Bones,2002.0,Mystery,no
+23,J.K. Rowling,Harry Potter and the Chamber of Secrets,1998.0,Fantasy,yes
+24,J.K. Rowling,Harry Potter and the Goblet of Fire,2000.0,Fantasy,Yes
+25,J.K. Rowling,Harry Potter and the Deathly Hallows,2007.0,Fantasy,yes
+26,Dan Brown,The Da Vinci Code,2003.0,Thriller,no
+27,J.K. Rowling,Harry Potter and the Half-Blood Prince,2005.0,Fantasy,Yes
+28,William Golding,Lord of the Flies ,1954.0,Adventure,No
+29,William Shakespeare,An Excellent conceited Tragedie of Romeo and Juliet,1595.0,Romance,no
+30,Gillian Flynn,Gone Girl,2012.0,Mystery,no
+31,Kathryn Stockett,The Help,2009.0,Drama,no
+32,John Steinbeck,Of Mice and Men ,1937.0,Drama,No
+33,Arthur Golden,Memoirs of a Geisha,1997.0,Biography,no
+34,E.L. James,Fifty Shades of Grey,2011.0,Romance,no
+35,Paulo Coelho,O Alquimista,1988.0,Adventure,no
+36,Lois Lowry,The Giver,1993.0,Sci-Fi,Yes
+37,C.S. Lewis,"The Lion, the Witch and the Wardrobe",1950.0,Fantasy,Yes
+38,Audrey Niffenegger,The Time Traveler's Wife,2003.0,Romance,no
+39,George R.R. Martin,A Game of Thrones,1996.0,Fantasy,no
+40,Elizabeth Gilbert,"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia",2006.0,Biography,no
+41,Rick Riordan,The Lightning Thief,2005.0,Fantasy,Yes
+42,Louisa May Alcott,Little Women,1868.0,Biography,yes
+43,Charlotte Brontë,Jane Eyre,1847.0,Romance,no
+44,Nicholas Sparks,The Notebook,1996.0,Romance,no
+45,Yann Martel,Life of Pi,2001.0,Adventure,no
+46,Sara Gruen,Water for Elephants,2006.0,Romance,no
+47,Markus Zusak,The Book Thief,2005.0,Mystery,no
+48,Ray Bradbury,Fahrenheit 451,1953.0,Sci-Fi,no
+49,Stephenie Meyer,"New Moon (Twilight, #2)",2006.0,Romance,no
+50,Shel Silverstein,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,1974.0,Comedy,yes
+51,Cassandra Clare,City of Bones,2007.0,Fantasy,no
+52,Stephenie Meyer,Eclipse,2007.0,Romance,no
+53,Christopher Paolini,Eragon,2002.0,Fantasy,yes
+54,Douglas Adams,The Hitchhiker's Guide to the Galaxy,1979.0,Sci-Fi,no
+55,Aldous Huxley,Brave New World,1932.0,Sci-Fi,no
+56,Stephenie Meyer,Breaking Dawn,2008.0,Fantasy,no
+57,Sue Monk Kidd,The Secret Life of Bees,2001.0,Mystery,no
+58,Mark Twain,The Adventures of Huckleberry Finn,1884.0,Adventure,no
+59,E.B. White,Charlotte's Web,1952.0,Fantasy,Yes
+60,Mark Haddon,The Curious Incident of the Dog in the Night-Time,2003.0,Mystery,No
+61,Paula Hawkins,The Girl on the Train,2015.0,Mystery,no
+62,Philip Pullman,Northern Lights,1995.0,Fantasy,yes
+63,Emily Brontë,Wuthering Heights,1847.0,Romance,no
+64,Jodi Picoult,My Sister's Keeper,2004.0,Drama,no
+65,Kurt Vonnegut Jr.,"Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death ",1969.0,Sci-Fi,no
+66,Margaret Mitchell,Gone with the Wind,1936.0,Romance,no
+67,Khaled Hosseini,A Thousand Splendid Suns,2007.0,Drama,no
+68,Stephen Chbosky,The Perks of Being a Wallflower,1999.0,Drama,No
+69,Veronica Roth,Insurgent,2012.0,Sci-Fi,no
+70,Orson Scott Card,Ender's Game,1985.0,Sci-Fi,no
+71,Mary Wollstonecraft Shelley,"Frankenstein; or, The Modern Prometheus",1818.0,Horror,No
+72,Stephen King,The Shining,1977.0,Horror,no
+73,Stephenie Meyer,The Host,2008.0,Sci-Fi,no
+74,John Green,Looking for Alaska,2005.0,Mystery,no
+75,Helen Fielding,,1996.0,Mystery,no
+76,Jane Austen,Sense and Sensibility,1811.0,Romance,no
+77,Louis Sachar,Holes,1998.0,Adventure,yes
+78,Lauren Weisberger,The Devil Wears Prada,2003.0,Comedy,no
+79,Homer,Ὀδύσσεια,-720.0,Adventure,no
+80,Antoine de Saint-Exupéry,Le Petit Prince,1946.0,Fantasy,yes
+81,Jeannette Walls,The Glass Castle,2005.0,Biography,no
+82,Jon Krakauer,Into the Wild,1996.0,Biography,no
+83,Charles Dickens,A Tale of Two Cities,1859.0,Historical Fiction,no
+84,Michael Crichton,Jurassic Park,1990.0,Thriller,no
+85,Shel Silverstein,The Giving Tree,1964.0,,yes
+86,John Grisham,A Time to Kill,1989.0,Thriller,no
+87,Elie Wiesel,Un di Velt Hot Geshvign,1958.0,Biography,no
+88,John Green,Paper Towns,2008.0,Mystery,no
+89,William Goldman,The Princess Bride,1973.0,Adventure,no
+90,S.E. Hinton,The Outsiders,1967.0,Adventure,no
+91,James Dashner,The Maze Runner,2009.0,Sci-Fi,no
+92,Steven D. Levitt,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,2005.0,Non-Fiction,No
+93,Frances Hodgson Burnett,The Secret Garden,1911.0,Adventure,yes
+94,Gabriel García Márquez,Cien años de soledad,1967.0,Fantasy,no
+95,Oscar Wilde,The Picture of Dorian Gray,1891.0,Horror,no
+97,Bram Stoker,Dracula,1897.0,Horror,no
+98,Stieg Larsson,Flickan som lekte med elden,2006.0,Thriller,no
+99,E.L. James,Fifty Shades Darker,2011.0,Romance,no
+100,Barbara Kingsolver,The Poisonwood Bible,1998.0,Adventure,no
+101,David Sedaris,Me Talk Pretty One Day,2000.0,Biography,no
+102,Maurice Sendak,Where the Wild Things Are,1963.0,Fantasy,yes
+103,Alexandre Dumas,Le Comte de Monte-Cristo,1844.0,Adventure,no
+104,Cormac McCarthy,The Road,2006.0,Adventure,no
+105,Veronica Roth,Allegiant,2013.0,Adventure,no
+106,Tina Fey,Bossypants,2011.0,Biography,no
+107,Nicholas Sparks,A Walk to Remember,1999.0,Romance,no
+108,Sophie Kinsella,Confessions of a Shopaholic,2000.0,Comedy,no
+109,Victor Hugo,Les Misérables,1862.0,Historical Fiction,no
+110,George R.R. Martin,A Clash of Kings,1998.0,Fantasy,no
+111,Kim Edwards,The Memory Keeper's Daughter,2005.0,Drama,no
+112,Jojo Moyes,Me Before You,2012.0,Romance,no
+113,Joseph Heller,Catch-22,1961.0,Satire,no
+114,Mitch Albom,Tuesdays with Morrie,1997.0,Biography,no
+115,Jeffrey Eugenides,Middlesex,2002.0,Mystery,no
+116,Mark Twain,The Adventures of Tom Sawyer,1876.0,Adventure,yes
+117,Madeleine L'Engle,A Wrinkle in Time,1962.0,Fantasy,Yes
+118,Amy Tan,The Joy Luck Club,1989.0,Drama,no
+119,Margaret Atwood,The Handmaid's Tale,1985.0,Sci-Fi,no
+120,Ann Brashares,The Sisterhood of the Traveling Pants,2001.0,Romance,no
+121,Vladimir Nabokov,Lolita,1955.0,Mystery,no
+122,Gregory Maguire,Wicked: The Life and Times of the Wicked Witch of the West,1995.0,Fantasy,no
+123,John Grisham,The Firm,1991.0,Thriller,no
+124,Emma Donoghue,Room,2010.0,Thriller,no
+125,William Shakespeare,"The Tragicall Historie of Hamlet, Prince of Denmark",1600.0,Tragedy,no
+126,Frank Herbert,Dune,1965.0,Sci-Fi,no
+127,Malcolm Gladwell,The Tipping Point: How Little Things Can Make a Big Difference,2000.0,Non-fiction,no
+129,Ken Kesey,One Flew Over the Cuckoo's Nest,1962.0,Horror,no
+130,Ernest Hemingway,The Old Man and the Sea,1952.0,Adventure,no
+131,John Steinbeck,The Grapes of Wrath,1939.0,Adventure,no
+132,Mitch Albom,The Five People You Meet in Heaven,2003.0,Fantasy,no
+133,L.M. Montgomery,Anne of Green Gables,1908.0,Adventure,yes
+134,Cassandra Clare,City of Glass,2009.0,Fantasy,no
+135,George R.R. Martin,A Storm of Swords,2000.0,Fantasy,no
+136,Rebecca Wells,Divine Secrets of the Ya-Ya Sisterhood,1996.0,Comedy,no
+137,Diana Gabaldon,Outlander,1991.0,Romance,no
+138,Nathaniel Hawthorne,The Scarlet Letter,1850.0,Romance,no
+139,Ransom Riggs,Miss Peregrine’s Home for Peculiar Children,2011.0,Fantasy,Yes
+140,Stieg Larsson,Luftslottet som sprängdes,2007.0,Thriller,no
+141,Andy Weir,The Martian,2012.0,Sci-Fi,no
+142,Ken Follett,The Pillars of the Earth,1989.0,Historical Fiction,no
+143,Anthony Doerr,,2014.0,Mystery,no
+144,Laura Hillenbrand,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",2010.0,Biography,no
+145,Dan Brown,Deception Point,2001.0,Thriller,no
+146,Donna Tartt,The Goldfinch,2013.0,Mystery,no
+148,Tracy Chevalier,Girl with a Pearl Earring,1999.0,Historical Fiction,No
+150,Anita Diamant,The Red Tent,1997.0,Historical Fiction,no
+151,Rick Riordan,The Sea of Monsters,2006.0,Fantasy,Yes
+154,William Shakespeare,The Tragedy of Macbeth,1606.0,Tragedy,no
+155,J.R.R. Tolkien,The Two Towers,1954.0,Fantasy,no
+156,Emily Giffin,Something Borrowed,2004.0,Romance,no
+157,Dr. Seuss,Green Eggs and Ham,1960.0,Comedy,yes
+158,Roald Dahl,Charlie and the Chocolate Factory,1964.0,Fantasy,yes
+160,Charles Dickens,Great Expectations,1860.0,Adventure,no
+161,J.R.R. Tolkien,The Return of the King,1955.0,Fantasy,no
+162,Albert Camus,L’Étranger,1942.0,Mystery,no
+165,George R.R. Martin,A Feast for Crows,2005.0,Fantasy,no
+167,Neil Gaiman,American Gods,2001.0,Fantasy,No
+168,Stephen King,The Stand,1978.0,Horror,no
+170,Dan Brown,Digital Fortress,1998.0,Thriller,no
+171,Jane Austen,Emma,1815.0,Romance,no
+172,Leo Tolstoy,Анна Каренина,1877.0,Romance,no
+173,Anthony Burgess,A Clockwork Orange,1962.0,Sci-Fi,no
+174,William Paul Young,The Shack: Where Tragedy Confronts Eternity,2007.0,Fantasy,no
+175,Rick Riordan,The Last Olympian,2009.0,Fantasy,Yes
+176,Stephen King,It,1986.0,Horror,no
+177,Fyodor Dostoyevsky,Преступление и наказание,1866.0,Mystery,no
+178,Sylvia Plath,The Bell Jar,1963.0,Biography,no
+179,Frank McCourt,Angela's Ashes: A Memoir,1996.0,Biography,no
+180,Hermann Hesse,Siddhartha,1922.0,Biography,no
+181,Truman Capote,In Cold Blood,1965.0,Mystery,no
+184,Roald Dahl,Matilda,1988.0,Fantasy,yes
+185,Erin Morgenstern,The Night Circus,2011.0,Fantasy,no
+186,Philippa Gregory,The Other Boleyn Girl,2001.0,Historical Fiction,no
+187,Scott Westerfeld,Uglies,2005.0,Sci-Fi,yes
+188,George R.R. Martin,A Dance with Dragons,2011.0,Fantasy,no
+189,J.R.R. Tolkien,The Lord of the Rings,1955.0,Fantasy,no
+190,Cheryl Strayed,Wild: From Lost to Found on the Pacific Crest Trail ,2012.0,Biography,no
+191,Alan Moore,Watchmen,1987.0,Superhero,no
+192,Patrick Rothfuss,The Name of the Wind,2007.0,Fantasy,no
+193,Malcolm Gladwell,Outliers: The Story of Success,2008.0,Biography,no
+194,Herman Melville,"Moby Dick; or, The Whale",1851.0,Adventure,no
+195,Mary Ann Shaffer,The Guernsey Literary and Potato Peel Pie Society,2008.0,Mystery,no
+196,Chuck Palahniuk,Fight Club,1996.0,Thriller,no
+197,Charlaine Harris,Dead Until Dark,2001.0,Fantasy,no
+198,Alice Walker,The Color Purple,1982.0,Biography,no
+199,John Grogan,Marley & Me: Life and Love with the World's Worst Dog,2005.0,Comedy,no
+200,Agatha Christie,Ten Little Niggers,1939.0,Mystery,no
+201,Dan Brown,The Lost Symbol,2009.0,Mystery,no
+204,Charles Dickens,A Christmas Carol,1843.0,Fantasy,Yes
+205,Anne Rice,Interview with the Vampire,1976.0,Horror,no
+207,Janet Evanovich,One for the Money,1994.0,Mystery,no
+208,Rebecca Skloot,The Immortal Life of Henrietta Lacks,2010.0,Biography,no
+209,Thomas Harris,The Silence of the Lambs,1988.0,Thriller,no
+211,Malcolm Gladwell,Blink: The Power of Thinking Without Thinking,2005.0,,no
+212,Ian McEwan,Atonement,2001.0,Mystery,no
+213,Franz Kafka,Die Verwandlung,1915.0,Horror,no
+215,Ernest Cline,,2011.0,Sci-Fi,no
+216,Garth Stein,The Art of Racing in the Rain,2006.0,Adventure,no
+217,Erik Larson,"The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America",2003.0,True Crime,No
+219,C.S. Lewis,The Chronicles of Narnia,1956.0,Fantasy,yes
+221,Dave Pelzer,"A Child Called ""It"": One Child's Courage to Survive",1995.0,Biography,no
+222,Robert Ludlum,The Bourne Identity,1980.0,Thriller,no
+223,Eoin Colfer,Artemis Fowl,2001.0,Fantasy,yes
+225,John Steinbeck,East of Eden  ,1952.0,Adventure,no
+226,Gillian Flynn,Dark Places,2009.0,Thriller,no
+227,John Grisham,The Client,1993.0,Thriller,no
+228,Emma McLaughlin,The Nanny Diaries,2002.0,Comedy,no
+229,Lewis Carroll,Alice's Adventures in Wonderland,1865.0,Fantasy,Yes
+230,Jane Austen,Persuasion,1817.0,Romance,no
+231,Tatiana de Rosnay,Elle s'appelait Sarah,2007.0,Mystery,no
+232,Stephen King,The Gunslinger,1982.0,Fantasy,no
+233,Gabriel García Márquez,El amor en los tiempos del cólera,1985.0,Romance,no
+234,Laurie Halse Anderson,Speak,1999.0,Mystery,No
+235,Liane Moriarty,The Husband's Secret ,2013.0,Mystery,no
+236,Jon Krakauer,Into Thin Air: A Personal Account of the Mt. Everest Disaster,1997.0,Adventure,no
+237,Stephen King,Carrie,1974.0,Horror,no
+238,Augusten Burroughs,Running with Scissors,2002.0,Biography,no
+239,Max Brooks,World War Z: An Oral History of the Zombie War,2006.0,Horror,no
+240,Dan Brown,Inferno,2013.0,Thriller,no
+241,Lois Lowry,Number the Stars,1989.0,Historical Fiction,Yes
+242,James Patterson,Along Came a Spider,1993.0,Mystery,no
+243,Stephen King,Misery,1987.0,Horror,no
+244,Gillian Flynn,Sharp Objects,2006.0,Mystery,no
+245,Katherine Paterson,Bridge to Terabithia,1977.0,Fantasy,yes
+247,Stephen R. Covey,The 7 Habits of Highly Effective People,1989.0,Non-Fiction,No
+248,William Shakespeare,A Midsummer Night's Dream,1595.0,Comedy,no
+249,Jonathan Safran Foer,Extremely Loud and Incredibly Close,2005.0,Drama,no
+251,Dr. Seuss,The Cat in the Hat,1957.0,Comedy,yes
+253,Robert Galbraith,The Cuckoo's Calling,2013.0,Mystery,no
+255,Ayn Rand,Atlas Shrugged,1957.0,Thriller,no
+256,Greg Mortenson,Three Cups of Tea ,2006.0,Biography,no
+257,Jane Carruth,,1865.0,Adventure,yes
+258,Carlos Ruiz Zafón,La sombra del viento,2001.0,Mystery,no
+261,Frances Mayes,Under the Tuscan Sun,1996.0,Biography,no
+262,Liane Moriarty,Big Little Lies,2014.0,Mystery,no
+263,Gail Carson Levine,Ella Enchanted,1997.0,Fantasy,yes
+264,Ernest Hemingway,The Sun Also Rises,1926.0,Adventure,no
+265,Betty  Smith,A Tree Grows In Brooklyn ,1943.0,Biography,no
+266,James Patterson,Kiss the Girls,1995.0,Thriller,no
+267,Kristin Hannah,The Nightingale,2015.0,Historical Fiction,no
+268,Kazuo Ishiguro,Never Let Me Go,2005.0,Mystery,No
+270,Daphne du Maurier,Rebecca,1938.0,Mystery,no
+271,Daniel Keyes,Flowers for Algernon,1966.0,Science Fiction,no
+272,Laura Esquivel,Como agua para chocolate,1989.0,Romance,no
+273,Lisa See,Snow Flower and the Secret Fan,2005.0,Historical Fiction,no
+274,Mario Puzo,The Godfather,1969.0,Thriller,no
+276,Isaac Asimov,Foundation,1951.0,Sci-Fi,no
+277,Neil Gaiman,The Ocean at the End of the Lane,2013.0,Fantasy,No
+278,Shel Silverstein,A Light in the Attic,1981.0,Comedy,yes
+281,John Grisham,The Pelican Brief,1992.0,Thriller,no
+282,Neil Gaiman,Coraline,2002.0,Fantasy,yes
+283,Terry Pratchett,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",1990.0,Comedy,no
+284,Jack Kerouac,On the Road,1955.0,Adventure,no
+285,Graeme Simsion,The Rosie Project,2013.0,Romance,no
+287,Ayn Rand,The Fountainhead,1943.0,Romance,no
+288,Tom Clancy,The Hunt for Red October,1984.0,Thriller,no
+289,Richard Adams,Watership Down,1972.0,Adventure,no
+290,Mindy Kaling,Is Everyone Hanging Out Without Me? (And Other Concerns),2011.0,Biography,no
+291,Abraham Verghese,Cutting for Stone,2009.0,Biography,no
+292,C.S. Lewis,The Voyage of the Dawn Treader,1951.0,Fantasy,yes
+293,Robert Louis Stevenson,Treasure Island,1882.0,Adventure,Yes
+295,Stephen King,11/22/63,2011.0,Thriller,no
+296,Eric Carle,The Very Hungry Caterpillar,1969.0,,yes
+297,Kurt Vonnegut Jr.,Cat's Cradle,1963.0,Sci-Fi,no
+298,H.G. Wells,The Time Machine,1895.0,Science Fiction,No
+300,John Boyne,The Boy in the Striped Pyjamas,2006.0,Historical Fiction,Yes
+301,Joseph Conrad,Heart of Darkness,1899.0,Adventure,no
+304,Wally Lamb,I Know This Much Is True ,1998.0,Drama,no
+305,Stephen King,Pet Sematary,1983.0,Horror,no
+306,Wally Lamb,She's Come Undone,1992.0,Mystery,no
+310,Jennifer Weiner,Good in Bed,2001.0,Romance,no
+311,Colleen McCullough,The Thorn Birds,1977.0,Romance,no
+312,Neil Gaiman,The Graveyard Book,2008.0,Fantasy,yes
+313,M.L. Stedman,The Light Between Oceans,2012.0,Romance,no
+314,Cornelia Funke,Tintenherz,2003.0,Fantasy,yes
+316,Bill Bryson,A Walk in the Woods,1997.0,Adventure,no
+317,Maya Angelou,I Know Why the Caged Bird Sings,1969.0,Biography,no
+318,Christina Baker Kline,Orphan Train,2013.0,Historical Fiction,no
+320,Maria Semple,"Where'd You Go, Bernadette",2012.0,Mystery,no
+321,Wilson Rawls,Where the Red Fern Grows,1961.0,Adventure,yes
+322,Neil Gaiman,Neverwhere,1996.0,Fantasy,no
+323,Milan Kundera,Nesnesitelná lehkost bytí,1984.0,Romance,no
+325,John Irving,A Prayer for Owen Meany,1989.0,Mystery,no
+326,Janet Fitch,White Oleander,1999.0,Mystery,no
+328,Jodi Picoult,Nineteen Minutes,2007.0,Thriller,no
+329,Randy Pausch,The Last Lecture,2008.0,Biography,no
+331,Jodi Picoult,The Pact,1998.0,Mystery,no
+332,C.S. Lewis,The magician's nephew,1953.0,Fantasy,yes
+333,Lisa Genova,Still Alice,2007.0,Biography,no
+335,Roald Dahl,James and the Giant Peach,1961.0,Fantasy,yes
+337,Douglas Adams,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story,1996.0,Sci-Fi,no
+338,David Nicholls,One Day,2009.0,Romance,no
+339,Margaret Wise Brown,,1947.0,Adventure,yes
+341,Homer,Ἰλιάς,-750.0,Adventure,no
+342,J.K. Rowling,The Casual Vacancy,2012.0,Mystery,no
+343,John Grisham,The Runaway Jury,1996.0,Thriller,no
+344,David Sedaris,Naked,1997.0,Comedy,no
+345,Christopher Paolini,Eldest,2005.0,Fantasy,No
+346,L. Frank Baum,The Wonderful Wizard of Oz,1900.0,Fantasy,Yes
+347,C.S. Lewis,Prince Caspian: The Return to Narnia,1951.0,Fantasy,Yes
+349,Stephen King,Salem's Lot,1975.0,Horror,no
+350,Hunter S. Thompson,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,1971.0,Comedy,no
+353,William Shakespeare,"The Tragedy of Othello, The Moor of Venice",1603.0,Tragedy,no
+354,Toni Morrison,Beloved,1987.0,Mystery,no
+356,Lemony Snicket,The Bad Beginning,1999.0,Mystery,yes
+357,Erich Maria Remarque,Im Westen nichts Neues,1929.0,War,no
+358,Dr. Seuss,"Oh, the Places You'll Go!",1990.0,Adventure,yes
+359,Khaled Hosseini,And The Mountains Echoed,2012.0,Biography,no
+360,Philip K. Dick,Do Androids Dream of Electric Sheep?,1968.0,Sci-Fi,no
+361,Charles Dickens,Oliver Twist,1838.0,Adventure,no
+362,C.S. Lewis,A Grief Observed,1942.0,Biography,no
+364,Dr. Seuss,How the Grinch Stole Christmas!,1957.0,Fantasy,yes
+367,Dean Koontz,Odd Thomas,2003.0,Mystery,no
+368,Philip Pullman,The Subtle Knife,1997.0,Fantasy,Yes
+369,Jerry Spinelli,Stargirl,2000.0,Romance,yes
+371,Robert A. Heinlein,Stranger in a Strange Land,1961.0,Sci-Fi,no
+372,David Sedaris,Dress Your Family in Corduroy and Denim,2004.0,Comedy,no
+373,Roald Dahl,The BFG,1982.0,Fantasy,yes
+374,Bill Bryson,A Short History of Nearly Everything,2003.0,,no
+375,Jack London,The Call of the Wild,1903.0,Adventure,No
+377,Neil Gaiman,Stardust,1999.0,Fantasy,no
+378,Jhumpa Lahiri,The Namesake,2003.0,Drama,no
+379,Deborah Harkness,A Discovery of Witches,2011.0,Fantasy,no
+381,Billie Letts,Where the Heart Is,1995.0,Romance,no
+383,James Frey,A Million Little Pieces,2003.0,Biography,no
+386,Scott O'Dell,Island of the Blue Dolphins,1960.0,Adventure,yes
+387,Arthur Miller,The Crucible,1953.0,Drama,no
+388,Gary Paulsen,Hatchet,1986.0,Adventure,Yes
+390,Robert Louis Stevenson,The Strange Case of Dr Jekyll and Mr Hyde,1886.0,Horror,no
+391,Dr. Seuss,The Lorax,1971.0,Fantasy,Yes
+395,Ernest Hemingway,For Whom the Bell Tolls,1940.0,Adventure,no
+396,Jamie Ford,Hotel on the Corner of Bitter and Sweet,2009.0,Historical Fiction,no
+397,Patrick Süskind,Das Parfum. Die Geschichte eines Mörders,1985.0,Mystery,no
+398,Eric Schlosser,Fast Food Nation : The Dark Side of the All-American Meal ,2001.0,Non-Fiction,No
+399,J.K. Rowling,The Tales of Beedle the Bard,2007.0,Fantasy,Yes
+401,Ernest Hemingway,A Farewell to Arms,1929.0,Romance,no
+402,Edgar Allan Poe,The Tell-Tale Heart,1843.0,Horror,no
+404,William Landay,Defending Jacob,2012.0,Mystery,no
+405,Kurt Vonnegut Jr.,Breakfast of Champions,1973.0,Comedy,no
+407,Ann Patchett,Bel Canto,2001.0,Romance,no
+408,Jared Diamond,"Guns, Germs, and Steel: The Fates of Human Societies",1997.0,Adventure,No
+409,Fannie Flagg,Fried Green Tomatoes at the Whistle Stop Cafe,1987.0,Comedy,no
+410,Chinua Achebe,Things Fall Apart,1958.0,Adventure,no
+413,Alexandre Dumas,Les Trois Mousquetaires,1844.0,Adventure,no
+414,Chris Cleave,The Other Hand,2008.0,Mystery,no
+416,Roald Dahl,The Witches,1983.0,Fantasy,yes
+417,Diane Setterfield,The Thirteenth Tale,2006.0,Mystery,no
+421,Paula McLain,The Paris Wife,2011.0,Biography,no
+422,J.K. Rowling,Complete Harry Potter Boxed Set,1998.0,Fantasy,Yes
+424,Umberto Eco,Il nome della rosa,1980.0,Mystery,no
+425,Beatrice Sparks,Go Ask Alice,1971.0,Mystery,no
+426,John Kennedy Toole,A Confederacy of Dunces,1980.0,Comedy,no
+427,Oscar Wilde,The Importance of Being Earnest,1895.0,Comedy,no
+430,Haruki Murakami,海辺のカフカ [Umibe no Kafuka],2002.0,Mystery,no
+431,Thomas Harris,Red Dragon,1981.0,Thriller,no
+432,Isaac Asimov,"I, Robot",1950.0,Sci-Fi,no
+436,Arundhati Roy,The God of Small Things,1997.0,Mystery,no
+437,Sue Monk Kidd,The Invention of Wings,2014.0,Historical Fiction,no
+440,Ken Follett,Fall of Giants,2010.0,Historical Fiction,no
+441,Stephen King,Under the Dome,2009.0,Horror,no
+444,A.A. Milne,Winnie-the-Pooh,1926.0,Adventure,yes
+451,Jane Austen,Northanger Abbey,1817.0,Romance,no
+453,Charles Frazier,Cold Mountain,1997.0,Adventure,no
+456,Tennessee Williams,A Streetcar Named Desire,1947.0,Drama,no
+457,Elizabeth Kostova,The Historian,2005.0,Mystery,no
+461,Pearl S. Buck,The Good Earth,1931.0,Adventure,No
+463,Diana Gabaldon,Dragonfly in Amber,1992.0,Romance,no
+464,Anonymous,,1611.0,,no
+465,Jennifer Weiner,In Her Shoes,2002.0,Romance,no
+466,Chuck Dixon,The Hobbit,1989.0,Fantasy,Yes
+467,Junot Díaz,The Brief Wondrous Life of Oscar Wao,2007.0,Biography,no
+468,Zora Neale Hurston,Their Eyes Were Watching God,1937.0,Romance,no
+471,Jane Austen,Mansfield Park,1814.0,Romance,no
+472,Viktor E. Frankl,…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager,1946.0,Biography,no
+473,Tana French,In the Woods,2007.0,Mystery,no
+476,John Irving,The World According to Garp,1978.0,Comedy,no
+478,Daniel Defoe,"The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner",1719.0,Adventure,no
+479,Niccolò Machiavelli,Il Principe,1513.0,Biography,no
+480,Philip Pullman,The Amber Spyglass,2000.0,Fantasy,no
+482,Kathleen Grissom,The Kitchen House,2010.0,Historical Fiction,no
+483,J.D. Salinger,Franny and Zooey,1961.0,Mystery,no
+484,Chuck Palahniuk,Choke,2001.0,Horror,no
+485,Fyodor Dostoyevsky,Братья Карамазовы,1880.0,Mystery,no
+487,Michael Crichton,The Andromeda Strain,1969.0,Sci-Fi,no
+488,Stephen King,The Green Mile,1996.0,Horror,no
+489,Kahlil Gibran,The Prophet,1923.0,,no
+490,Art Spiegelman,Maus: A Survivor's Tale : My Father Bleeds History,1985.0,Biography,no
+492,Orson Scott Card,Speaker for the Dead,1986.0,Sci-Fi,no
+493,C.S. Lewis,Mere Christianity,1952.0,Non-Fiction,No
+494,Donna Tartt,The Secret History,1992.0,Mystery,no
+495,Dave Eggers,A Heartbreaking Work of Staggering Genius,2000.0,Biography,no
+496,Jean M. Auel,The Clan of the Cave Bear,1980.0,Adventure,no
+497,Anna Sewell,Black Beauty,1877.0,Adventure,Yes
+498,Leo Tolstoy,Война и миръ,1869.0,Historical Fiction,no
+499,Bret Easton Ellis,American Psycho,1991.0,Thriller,no
+501,Alexander McCall Smith,The No. 1 Ladies' Detective Agency ,1998.0,Mystery,No
+503,Arthur C. Clarke,2001: A Space Odyssey,1968.0,Sci-Fi,no
+508,Barbara Ehrenreich,Nickel and Dimed: On (Not) Getting By in America,2001.0,Biography,no
+512,Edgar Allan Poe,The Complete Tales of Edgar Allan Poe,1849.0,Horror,no
+513,Corrie ten Boom,The Hiding Place,1971.0,Biography,no
+514,Arthur Conan Doyle,The Adventures of Sherlock Holmes,1892.0,Mystery,no
+515,Pat Conroy,The Prince of Tides,1986.0,Romance,no
+516,Michael Chabon,The Amazing Adventures of Kavalier & Clay,2000.0,Adventure,no
+518,J.M. Barrie,Peter Pan,1904.0,Fantasy,yes
+520,Haruki Murakami,ねじまき鳥クロニクル [Nejimakidori kuronikuru],1994.0,Mystery,no
+522,David Mitchell,Cloud Atlas,2004.0,Sci-Fi,no
+523,Tim O'Brien,The Things They Carried,1990.0,Biography,no
+529,Jonathan Swift,Gulliver’s Travels,1726.0,Adventure,no
+530,William Shakespeare,Much Ado About Nothing,1598.0,Comedy,no
+531,Unknown,Beowulf,975.0,Adventure,No
+534,David Sedaris,When You Are Engulfed in Flames,2008.0,Comedy,no
+538,John Berendt,Midnight in the Garden of Good and Evil,1994.0,Mystery,no
+540,Frances Hodgson Burnett,A Little Princess,1905.0,Adventure,Yes
+542,C.S. Lewis,The horse and his boy,1954.0,Fantasy,yes
+544,Laura Ingalls Wilder,Little House on the Prairie,1935.0,Biography,yes
+545,Margery Williams Bianco,The Velveteen Rabbit,1922.0,Fantasy,yes
+546,Robert M. Pirsig,Zen and the Art of Motorcycle Maintenance,1974.0,Biography,no
+547,H.G. Wells,The War of the Worlds,1897.0,Sci-Fi,no
+550,Michael Pollan,The Omnivore's Dilemma,2006.0,Non-fiction,no
+553,Stephen King,Needful Things,1991.0,Horror,no
+554,Diana Gabaldon,Voyager,1993.0,Romance,no
+555,Kenneth Branagh,,1996.0,Biography,no
+556,Stephen King,Cujo,1981.0,Horror,no
+557,Jeffrey Eugenides,The Virgin Suicides,1993.0,Mystery,no
+559,Thomas Hardy,Tess of the d'Urbervilles: A Pure Woman Faithfully Presented,1891.0,Romance,no
+560,Gustave Flaubert,Madame Bovary,1856.0,Romance,no
+561,Norton Juster,The Phantom Tollbooth,1961.0,Adventure,yes
+563,Charlaine Harris,Club Dead,2003.0,Mystery,no
+567,Vanessa Diffenbaugh,The Language of Flowers,2011.0,Romance,no
+570,Nick Hornby,High Fidelity,1995.0,Romance,no
+572,Margaret Atwood,Oryx and Crake,2003.0,Science Fiction,No
+574,Anthony Bourdain,Kitchen Confidential: Adventures in the Culinary Underbelly,2000.0,Biography,no
+575,Michael Crichton,Timeline,1999.0,Sci-Fi,no
+576,Voltaire,Candide,1759.0,Adventure,no
+577,Natalie Babbitt,Tuck Everlasting,1975.0,Fantasy,Yes
+578,Stephen King,Christine,1983.0,Horror,no
+584,Lev Grossman,The Magicians,2009.0,Fantasy,no
+587,Jonathan Safran Foer,Everything Is Illuminated,2002.0,Adventure,no
+590,Charles Dickens,David Copperfield,1849.0,Biography,no
+591,Sherman Alexie,The Absolutely True Diary of a Part-Time Indian,2007.0,Biography,no
+592,Mikhail Bulgakov,Мастер и Маргарита,1967.0,Fantasy,no
+595,John Knowles,A Separate Peace,1959.0,Literary Fiction,no
+596,John Grisham,The Rainmaker,1995.0,Thriller,no
+597,Miguel de Cervantes Saavedra,Don Quijote de La Mancha,1605.0,Adventure,no
+599,Douglas Adams,The Restaurant at the End of the Universe,1980.0,Sci-Fi,no
+601,Beatrix Potter,The Tale of Peter Rabbit,1901.0,Adventure,yes
+602,C.S. Lewis,The Silver Chair,1953.0,Fantasy,yes
+604,Susanna Kaysen,"Girl, Interrupted",1993.0,Biography,no
+606,Richard Bach,Jonathan Livingston Seagull,1970.0,Adventure,no
+608,Robert Munsch,Love You Forever,1986.0,Romance,yes
+609,Stephen King,Cell,2006.0,Horror,no
+611,J.R.R. Tolkien,The Silmarillion,1977.0,Fantasy,no
+612,Stephen King,The Drawing of the Three,1987.0,Fantasy,no
+613,Kate Morton,The Forgotten Garden,2008.0,Mystery,no
+614,Franz Kafka,Der Prozeß,1925.0,Mystery,no
+616,Jodi Picoult,Plain Truth,2000.0,Mystery,no
+618,Arthur Conan Doyle,The Hound of the Baskervilles,1902.0,Mystery,no
+620,Marion Zimmer Bradley,The Mists of Avalon,1982.0,Fantasy,no
+621,Judy Blume,"Are You There God? It's Me, Margaret",1970.0,Biography,yes
+625,Chris Bohjalian,Midwives,1997.0,Mystery,no
+626,Chris Van Allsburg,The Polar Express,1985.0,Fantasy,Yes
+635,Jostein Gaarder,Sofies Verden,1991.0,Mystery,No
+637,Ray Bradbury,The Martian Chronicles,1950.0,Sci-Fi,no
+638,Jennifer Egan,A Visit From the Goon Squad,2010.0,Mystery,no
+639,Johanna Spyri,Heidi,1880.0,Adventure,yes
+641,C.S. Lewis,The Last Battle,1956.0,Fantasy,yes
+642,Ken Follett,World Without End,2007.0,Historical Fiction,no
+646,Geoffrey Chaucer,Tales of Caunterbury,1390.0,Comedy,no
+650,Harriet Beecher Stowe,Uncle Tom's Cabin or Life Among the Lowly,1852.0,Adventure,no
+651,Gaston Leroux,Le Fantôme de l'Opéra,1909.0,Mystery,no
+653,José Saramago,Ensaio Sobre a Cegueira,1995.0,Thriller,no
+654,Jonathan Franzen,Freedom,2010.0,Mystery,no
+658,Jonathan Franzen,The Corrections,2001.0,Mystery,no
+660,Michael Crichton,Congo,1980.0,Adventure,no
+661,Judith Viorst,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",1972.0,Comedy,yes
+662,Jhumpa Lahiri,Interpreter of Maladies,1999.0,Adventure,no
+663,Howard Zinn,A People's History of the United States: 1492 to Present ,1980.0,Biography,no
+664,Truman Capote,Breakfast at Tiffany's,1958.0,Romance,no
+665,Justin Cronin,The Passage,2010.0,Horror,no
+666,Neil Gaiman,Anansi Boys,2005.0,Fantasy,no
+669,Isabel Allende,La casa de los espíritus,1982.0,Mystery,no
+670,Stephen King,The Dead Zone,1979.0,Horror,no
+672,Agatha Christie,Murder in the Calais Coach,1934.0,Mystery,no
+675,Stephen King,Firestarter,1980.0,Horror,no
+679,Ludwig Bemelmans,Mad About Madeline,1939.0,Adventure,yes
+681,Laura Ingalls Wilder,Little House In The Big Woods,1932.0,Biography,yes
+682,Susanna Clarke,Jonathan Strange & Mr Norrell,2004.0,Fantasy,no
+688,Jon Krakauer,Under the Banner of Heaven: A Story of Violent Faith,2003.0,Mystery,no
+689,Jess Walter,Beautiful Ruins,2012.0,Romance,no
+691,Stephen King,On Writing: A Memoir of the Craft,1999.0,Biography,no
+693,Michael Crichton,Sphere,1987.0,Sci-Fi,no
+696,Anne Rice,The Vampire Lestat,1985.0,Horror,no
+697,Ann Patchett,State of Wonder,2011.0,Adventure,no
+699,Jules Verne,Vingt Mille Lieues Sous les Mers,1869.0,Adventure,No
+701,Virginia Woolf,Mrs Dalloway,1925.0,Mystery,no
+703,Stephen King,Bag of Bones,1998.0,Horror,no
+704,John Irving,The Cider House Rules,1985.0,Drama,no
+705,Richard Bachman,Thinner,1984.0,Horror,no
+706,Jules Verne,Le tour du monde en quatre-vingts jours,1872.0,Adventure,No
+707,Sharon Creech,Walk Two Moons,1994.0,Mystery,yes
+709,J.D. Salinger,Nine Stories,1953.0,Mystery,no
+710,Julie Powell,"Julie & Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",2005.0,Biography,no
+712,Diana Gabaldon,"Drums of Autumn (Outlander, #4)",1996.0,Romance,no
+714,William Shakespeare,The Tragedie of King Lear,1603.0,Tragedy,no
+715,Arthur Miller,Death of a Salesman,1949.0,Drama,no
+718,William Faulkner,The Sound and the Fury,1929.0,Mystery,no
+725,Stephen King,The Waste Lands,1991.0,Fantasy,no
+727,Bernhard Schlink,Der Vorleser,1995.0,Mystery,no
+730,John Steinbeck,The Pearl of the World,1947.0,Adventure,no
+731,William Peter Blatty,The Exorcist,1971.0,Horror,no
+733,David Guterson,Snow Falling on Cedars,1994.0,Mystery,no
+734,Alex Haley,Roots,1976.0,Biography,no
+736,Ralph Ellison,Invisible Man,1952.0,Mystery,no
+738,Robert C. O'Brien,Mrs. Frisby and the Rats of NIMH,1971.0,Fantasy,Yes
+739,Stephen King,Different Seasons,1982.0,Mystery,no
+740,Laura Ingalls Wilder,The Little House Collection,1953.0,Biography,Yes
+741,Melissa Bank,The Girls' Guide to Hunting and Fishing,1998.0,Romance,no
+743,Christopher Moore,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",2002.0,Comedy,no
+754,Jeannette Walls,Half Broke Horses: A True Life Novel,2008.0,Biography,no
+757,Larry McMurtry,Lonesome Dove,1985.0,Adventure,no
+758,Mary Roach,Stiff: The Curious Lives of Human Cadavers,2003.0,Biography,no
+762,Thomas Keneally,Schindler's Ark,1982.0,Biography,no
+763,Toni Morrison,The Bluest Eye,1970.0,Mystery,no
+765,Malcolm X,The Autobiography of Malcolm X,1965.0,Biography,no
+767,Laura Hillenbrand,Seabiscuit,1999.0,Biography,no
+768,Dennis Lehane,Shutter Island,2003.0,Mystery,no
+769,Arthur Conan Doyle,The Complete Sherlock Holmes,1894.0,Mystery,no
+770,William Shakespeare,The Tragedy of Julius Caesar,1599.0,Tragedy,no
+772,Plato,Πολιτεία,-380.0,Philosophy,no
+773,William Shakespeare,The Taming of the Shrew,1593.0,Comedy,no
+778,Victor Hugo,Notre-Dame de Paris,1831.0,Romance,no
+779,Rohinton Mistry,A Fine Balance,1996.0,Biography,no
+782,Kate Chopin,The Awakening,1899.0,Romance,no
+788,Irvine Welsh,Trainspotting,1993.0,Drama,no
+792,Jacob Grimm,Brüder Grimm: Kinder- und Hausmärchen,1812.0,Fantasy,Yes
+793,E.L. Konigsburg,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,1967.0,Mystery,yes
+795,Nick Hornby,About a Boy,1998.0,Comedy,no
+804,William Shakespeare,The Tempest,1623.0,Fantasy,no
+806,Stephen King,Wizard and Glass,1997.0,Fantasy,no
+809,Aldous Huxley,Brave New World/Brave New World Revisited,1932.0,Sci-Fi,no
+815,Cormac McCarthy,No Country for Old Men,2005.0,Thriller,no
+818,Stephen King,Dreamcatcher,2001.0,Horror,no
+819,Henry David Thoreau,Walden; or Life in the Woods,1854.0,Biography,no
+820,Kazuo Ishiguro,The Remains of the Day,1989.0,Drama,no
+824,Sophocles,Οἰδίπους Τύραννος,-430.0,Tragedy,no
+825,Lisa See,Shanghai Girls,2009.0,Historical Fiction,no
+826,Kenneth Grahame,The Wind in the Willows,1908.0,Adventure,yes
+828,Marjane Satrapi,Persepolis,2000.0,Biography,no
+829,E.M. Forster,A Room with a View,1908.0,Romance,no
+839,William Shakespeare,The Merchant of Venice,1596.0,Comedy,no
+840,James Clavell,Shōgun,1975.0,Adventure,no
+846,George Orwell, Animal Farm & 1984,1950.0,Satire,no
+847,Jacquelyn Mitchard,The Deep End of the Ocean,1996.0,Mystery,no
+848,Amy Tan,The Bonesetter's Daughter,2001.0,Mystery,no
+851,V.C. Andrews,Flowers in the Attic,1979.0,Horror,no
+855,William Shakespeare,"Twelfth Night; or, What You Will",1601.0,Comedy,no
+857,Ellen Raskin,The Westing Game,1978.0,Mystery,yes
+860,Barbara Kingsolver,The Bean Trees,1988.0,Adventure,no
+865,Stephen King,Night Shift,1978.0,Horror,no
+867,Nicole Krauss,The History of Love,2005.0,Romance,no
+868,Astrid Lindgren,Pippi Långstrump,1945.0,Adventure,yes
+869,Muriel Barbery,L'élégance du hérisson,2006.0,Mystery,no
+872,Albert Camus,La peste,1947.0,Mystery,no
+877,Michael Ende,Die unendliche Geschichte,1979.0,Fantasy,yes
+879,Upton Sinclair,The Jungle,1906.0,Mystery,no
+883,Margaret Atwood,The Blind Assassin,2000.0,Mystery,no
+885,Andre Dubus III,House of Sand and Fog,1999.0,Drama,no
+887,William Faulkner,As I Lay Dying,1930.0,Biography,no
+895,Joan Didion,The Year of Magical Thinking,2005.0,Biography,no
+898,Anne Rice,The Queen of the Damned,1988.0,Horror,no
+899,Edith Wharton,The Age of Innocence,1920.0,Romance,no
+901,Geraldine Brooks,Year of Wonders: A Novel of the Plague,2001.0,Historical Fiction,no
+903,Ayn Rand,Anthem,1938.0,Sci-Fi,no
+906,Helen Simonson,Major Pettigrew's Last Stand,2010.0,Romance,no
+911,Stephen King,Gerald's Game,1992.0,Horror,no
+915,Stephen King,Insomnia,1994.0,Horror,no
+916,Azar Nafisi,Reading Lolita in Tehran: A Memoir in Books,2003.0,Biography,no
+919,Annie Proulx,The Shipping News,1993.0,Drama,no
+924,Jeffrey Eugenides,The Marriage Plot,2011.0,Romance,no
+925,Isabel Allende,Hija de la fortuna,1998.0,Adventure,no
+930,Elizabeth Strout,Olive Kitteridge,2008.0,Mystery,no
+934,Samuel Beckett,En attendant Godot,1952.0,,no
+935,Jack London,White Fang,1906.0,Adventure,no
+937,Philip Pullman,His Dark Materials,2000.0,Fantasy,Yes
+941,Michael Cunningham,The Hours,1998.0,Drama,no
+943,David Sedaris,Holidays on Ice,1997.0,Comedy,no
+948,Richard Russo,Empire Falls,2001.0,Mystery,no
+958,L.M. Montgomery,The Complete Anne of Green Gables Boxed Set,1908.0,Adventure,Yes
+959,James Joyce,A Portrait of the Artist as a Young Man,1916.0,Biography,no
+961,George Eliot,Middlemarch,1871.0,Romance,no
+964,J.R.R. Tolkien,The Hobbit and The Lord of the Rings,1973.0,Fantasy,Yes
+966,Scott Turow,Presumed Innocent,1986.0,Mystery,no
+967,Stephen King,The Dark Half,1989.0,Horror,no
+975,Vincent Bugliosi,Helter Skelter: The True Story of The Manson Murders,1974.0,True Crime,no
+977,Dante Alighieri,Inferno,1320.0,Adventure,no
+982,Caleb Carr,The Alienist,1994.0,Mystery,no
+984,John Milton,Paradise Lost,1667.0,Fantasy,no
+986,Stephen King,The Girl Who Loved Tom Gordon,1999.0,Horror,no
+994,James Herriot,All Creatures Great And Small,1972.0,Biography,no
+997,Emmuska Orczy,The Scarlet Pimpernel,1905.0,Adventure,no
+1005,Zadie Smith,White Teeth,1999.0,Comedy,no
+1011,Geraldine Brooks,People of the Book,2008.0,Historical Fiction,no
+1021,Barbara Kingsolver,"Animal, Vegetable, Miracle: A Year of Food Life",2007.0,Biography,no
+1038,Mildred D. Taylor,"Roll of Thunder, Hear My Cry",1976.0,Adventure,yes
+1048,Sebastian Junger,The Perfect Storm: A True Story of Men Against the Sea,1997.0,Adventure,no
+1051,Jim Fergus,One Thousand White Women: The Journals of May Dodd,1998.0,Historical Fiction,no
+1055,Salman Rushdie,Midnight's Children,1981.0,Fantasy,no
+1061,Elizabeth George Speare,The Witch of Blackbird Pond,1958.0,Adventure,yes
+1064,Wilkie Collins,The Woman in White,1859.0,Mystery,no
+1068,James McBride,The Color of Water: A Black Man's Tribute to His White Mother,1996.0,Biography,no
+1073,William Makepeace Thackeray,Vanity Fair: A Novel Without a Hero,1847.0,Comedy,no
+1075,Stephen King,Dolores Claiborne,1992.0,Mystery,no
+1084,Virginia Woolf,To The Lighthouse ,1927.0,Romance,no
+1088,Thomas Hardy,Far from the Madding Crowd,1874.0,Romance,no
+1094,Willa Cather,My Ántonia,1918.0,Romance,no
+1108,Hans Christian Andersen,Eventyr og historier,1835.0,Fantasy,yes
+1120,Aesop,Aesopica,-560.0,Fable,Yes
+1131,Joanne Harris,Chocolat,1998.0,Romance,no
+1133,Michael Ondaatje,The English Patient,1992.0,Romance,no
+1135,James Joyce,Dubliners,1914.0,Biography,no
+1136,Colum McCann,Let the Great World Spin,2009.0,Historical Fiction,no
+1139,Stephen King,The Tommyknockers,1987.0,Horror,no
+1144,Barbara Kingsolver,Prodigal Summer,2000.0,Romance,no
+1145,Joyce Carol Oates,We Were the Mulvaneys,1996.0,Drama,no
+1158,Leon Uris,Exodus,1958.0,Adventure,no
+1159,Ursula Hegi,Stones from the River,1994.0,Historical Fiction,no
+1161,John Steinbeck,Cannery Row ,1945.0,Comedy,no
+1167,Dante Alighieri,La Divina Commedia,1308.0,Adventure,no
+1171,Sarah Dunant,The Birth of Venus,2003.0,Historical Fiction,no
+1176,Dennis Lehane,Mystic River,2001.0,Mystery,no
+1178,Mark Twain,The Prince and the Pauper,1881.0,Adventure,Yes
+1184,F. Scott Fitzgerald,Tender Is the Night,1933.0,Romance,no
+1185,Olive Ann Burns,Cold Sassy Tree,1984.0,Comedy,no
+1186,Tennessee Williams,The Glass Menagerie,1945.0,Drama,no
+1202,Anne Tyler,The Accidental Tourist,1985.0,Romance,no
+1210,L.M. Montgomery,Anne of Avonlea,1909.0,Adventure,yes
+1214,James Joyce,Ulysses,1922.0,,no
+1222,E.B. White,Stuart Little,1945.0,Adventure,yes
+1231,Nancy Horan,Loving Frank,2007.0,Biography,no
+1237,Rosamunde Pilcher,The Shell Seekers,1987.0,Romance,no
+1238,Dave Eggers,What Is the What: The Autobiography of Valentino Achak Deng,2006.0,Biography,no
+1248,Stephen King,The Talisman,1984.0,Fantasy,No
+1255,Sandra Cisneros,The House on Mango Street,1984.0,Biography,no
+1272,Lynne Truss,"Eats, Shoots and Leaves",2003.0,Comedy,no
+1280,Virgil,Æneis,-17.0,Adventure,no
+1311,Anita Shreve,The Pilot's Wife,1998.0,Mystery,no
+1316,David Wroblewski,The Story of Edgar Sawtelle,2008.0,Mystery,no
+1317,Christina Schwarz,Drowning Ruth,2000.0,Mystery,no
+1319,Cormac McCarthy,All the Pretty Horses,1992.0,Adventure,no
+1334,Téa Obreht,The Tiger's Wife,2011.0,Mystery,no
+1365,Carson McCullers,The Heart is a Lonely Hunter,1940.0,Mystery,no
+1367,T.H. White,The Once and Future King,1958.0,Fantasy,Yes
+1393,Evelyn Waugh,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,1945.0,Romance,no
+1411,Richard Wright,Native Son ,1940.0,Thriller,no
+1434,James Fenimore Cooper,The Last of the Mohicans: A Narrative of 1757,1826.0,Adventure,no
+1435,William Styron,Sophie's Choice,1979.0,Mystery,no
+1457,Helen Fielding,Bridget Jones: The Edge of Reason,1999.0,Comedy,no
+1458,Louis de Bernières,Captain Corelli's Mandolin,1994.0,Romance,no
+1465,Chaim Potok,The Chosen,1967.0,Biography,no
+1477,Charles Dickens,Bleak House,1853.0,Mystery,no
+1509,Edith Wharton,The House of Mirth,1905.0,Romance,no
+1518,Aleksandr Solzhenitsyn,Один день Ивана Денисовича,1962.0,Biography,no
+1521,Sophocles,Ἀντιγόνη,-441.0,Tragedy,no
+1526,Stephen Crane,The Red Badge of Courage,1871.0,Adventure,no
+1561,Boris Pasternak,Доктор Живаго,1957.0,Romance,no
+1566,Edith Wharton,Ethan Frome,1911.0,Romance,no
+1567,Jane Hamilton,A Map of the World,1992.0,Fiction,no
+1569,O. Henry,The Gift of the Magi,1905.0,Romance,no
+1584,Tom Stoppard,Rosencrantz and Guildenstern are Dead,1966.0,Comedy,no
+1605,Walter Scott,Ivanhoe,1819.0,Adventure,no
+1642,Toni Morrison,Song of Solomon,1977.0,Mystery,no
+1644,Leif Enger,Peace Like a River,2001.0,Adventure,no
+1675,Jane Hamilton,The Book of Ruth,1988.0,Drama,no
+1679,Walt Whitman,Leaves of Grass,1855.0,Poetry,no
+1681,D.H. Lawrence,Lady Chatterley's Lover,1928.0,Romance,no
+1707,Louise Fitzhugh,Harriet the Spy,1964.0,Mystery,yes
+1714,Amy Tan,The Kitchen God's Wife,1991.0,Biography,no
+1739,Tom Wolfe,The Bonfire of the Vanities,1987.0,Mystery,no
+1752,Barbara Kingsolver,Animal Dreams,1990.0,Romance,no
+1785,Charlotte Perkins Gilman,The Yellow Wallpaper,1892.0,Horror,no
+1936,John Irving,A Widow for One Year,1998.0,Romance,no
+1970,A.S. Byatt,Possession,1990.0,Mystery,no
+2015,Robert James Waller,The Bridges of Madison County,1992.0,Romance,no
+2089,John Irving,The Hotel New Hampshire,1981.0,Comedy,no
+2124,Jane Smiley,A Thousand Acres,1991.0,Mystery,no
+2190,Alan Paton,"Cry, The Beloved Country",1948.0,Drama,no
+2355,George Eliot,Silas Marner: The Weaver of Raveloe,1861.0,Drama,no
