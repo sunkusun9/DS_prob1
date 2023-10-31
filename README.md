@@ -10,6 +10,8 @@
 
 # 강의 영역
 
+[강의 신청 페이지 바로 가기](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&corsCd=FA011G&corsYr=2023&corsDgrCd=10104)
+
 * 주제: 읽을 도서(to read book) 예측 문제
 
 |구분|주제|
