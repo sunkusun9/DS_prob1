@@ -21,5 +21,5 @@
 |가설 검정|Kolmogorov-Smironof, Bartlett<br/>일원산 분산분석, t 독립성검정, Mann-Whitney U|
 |지도학습| XGBoost, Multilayer Perceptron, SVM, Logistic Regression, Ensemble: Voting, OLS|
 |비지도학습|KMean Clustering, TSNE|
-|기계학습 알고리즘|Grid Search, Blending, Back-Propagation, 경사하강법(Gradient Desccent)|
+|기계학습 알고리즘|Grid Search, Back-Propagation, 경사하강법(Gradient Desccent)|
 |모델 검증 및 성능 측정|계층적 교차검증(Stratified KFold), 성능 지표: Silhouette Score, Average Recall, MAP@K|
