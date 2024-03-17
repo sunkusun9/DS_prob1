@@ -18,7 +18,7 @@
 |---|----|
 |데이터 전처리| Join, Mapping, Filtering, Reshaping, Over-Sampling: SMOTE|
 |데이터 추출|잠재요소 추출(Latent Factor Extraction), 거리 기반 유사 요소 추출|
-|가설 검정|Kolmogorov-Smironof, Bartlett<br/>일원산 분산분석, t 독립성검정, Mann-Whitney U|
+|가설 검정|Kolmogorov-Smironof, Bartlett<br/>일원분산분석, t 독립성검정, Mann-Whitney U|
 |지도학습| XGBoost, Multilayer Perceptron, SVM, Logistic Regression, Ensemble: Voting, OLS|
 |비지도학습|KMean Clustering, TSNE|
 |기계학습 알고리즘|Grid Search, Back-Propagation, 경사하강법(Gradient Desccent)|
